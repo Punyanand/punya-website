@@ -1,5 +1,4 @@
-// pages/blog.js
-import React from 'react';
+
 
 const Blog = () => {
   return (
@@ -10,4 +9,4 @@ const Blog = () => {
   );
 };
 
-export default Blog;  // ✅ This is required
+export default Blog;
